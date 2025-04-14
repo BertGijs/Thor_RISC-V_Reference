@@ -1,2 +1,3 @@
-# Thor_RISC-V_Reference
-Reference solutions of the offcourse.uk Thor practice exam held on 14/04/25.
+# Thor-RISC-V
+
+Reference solutions of the [offcourse.uk](https://moodle.feitsma.uk/) Thor practice exam held on 14/04/25.
